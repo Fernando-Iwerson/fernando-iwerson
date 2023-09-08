@@ -4,6 +4,8 @@
 - 🌱 Sempre a procura de melhorar..
 - 👯 Estou pronto para cada desafio..
 - 🔭 Contato: fernandoiwerson@gmail.com
+
+
 <br><br>
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 <br><br>
@@ -15,6 +17,7 @@
 <li> 🎓 Cursando Tecnologo em ADS na Estácio</li>
 <li> 🌱 Linguagens Básicas HTML, CSS, JAVASCRIPT, JAVA
 <li> 📚 Cursando o FAP Softex, BackEnd com JavaScript</li>
+
 <br><br><br>
 <br>
 <div align="center">
